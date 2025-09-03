@@ -1,6 +1,6 @@
 {
-  "name": "VitalScore - Health Tracking",
-  "short_name": "VitalScore",
+  "name": "Health Tracking",
+  "short_name": "Health App",
   "description": "Track and manage your daily health metrics including sleep, medication, meals, and exercise.",
   "start_url": "/",
   "display": "standalone",

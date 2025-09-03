@@ -20,8 +20,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     title: "Health",
-    description:
-      "Diabetic Control.",
+    description: "Diabetic Control.",
     url: "https://srinivas-health.netlify.app/",
     siteName: "Health Tracking",
     images: [
@@ -47,7 +46,7 @@ export const metadata: Metadata = {
     apple: "/health.png",
   },
   manifest: "/manifest.json",
-  metadataBase: new URL("https://vitalscore.vercel.app"),
+  metadataBase: new URL("https://srinivas-health.netlify.app/"),
 };
 
 export default function RootLayout({
