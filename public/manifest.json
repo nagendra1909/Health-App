@@ -1,0 +1,21 @@
+{
+  "name": "VitalScore - Health Tracking",
+  "short_name": "VitalScore",
+  "description": "Track and manage your daily health metrics including sleep, medication, meals, and exercise.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#22c55e",
+  "icons": [
+    {
+      "src": "/health-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/health-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
