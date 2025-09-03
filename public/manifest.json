@@ -8,12 +8,12 @@
   "theme_color": "#22c55e",
   "icons": [
     {
-      "src": "/health-logo.png",
+      "src": "/health.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/health-logo.png",
+      "src": "/health.png",
       "sizes": "512x512",
       "type": "image/png"
     }

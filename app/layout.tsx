@@ -19,9 +19,9 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     type: "website",
-    title: "Health Tracking",
+    title: "Health",
     description:
-      "Track and optimize your daily health metrics with VitalScore. Perfect for managing diabetes and maintaining a healthy lifestyle.",
+      "Diabetic Control.",
     url: "https://srinivas-health.netlify.app/",
     siteName: "Health Tracking",
     images: [
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: "/health.png",
-    shortcut: "/health-logo.png",
+    shortcut: "/health.png",
     apple: "/health.png",
   },
   manifest: "/manifest.json",
