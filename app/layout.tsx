@@ -19,24 +19,23 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     type: "website",
-    title: "Health",
-    description: "Diabetic Control.",
+    title: "Health - Diabetic Control",
+    description: "Track and manage your daily health metrics for better diabetic control",
     url: "https://srinivas-health.netlify.app/",
-    siteName: "Health Tracking",
+    siteName: "Health",
     images: [
       {
         url: "/health.png",
         width: 1200,
         height: 630,
-        alt: "VitalScore - Health Tracking Dashboard",
+        alt: "Health - Diabetic Control Dashboard",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "VitalScore - Smart Health Tracking",
-    description:
-      "Track and optimize your daily health metrics with VitalScore. Perfect for managing diabetes and maintaining a healthy lifestyle.",
+    title: "Health - Diabetic Control",
+    description: "Track and manage your daily health metrics for better diabetic control",
     images: ["/health.png"],
     creator: "@nagendra1909",
   },
